@@ -1,2 +1,1 @@
-print('这是demo1')
-print('啦啦啦')
+print('this is the first demo')
